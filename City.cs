@@ -10,7 +10,7 @@ namespace Planner
         The mayor of the city.
         Year the city was established.
         A collection of all of the buildings in the city.
-        A method to add a building to the city.
+        A method to add a building to the city. Yay!
         */
 
         private string _cityName { get; set; }
